@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -583,7 +583,7 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Reseacrh Assistant",
+          title: "Research Assistant",
           company: "University of Georgia",
           company_url: "https://www.uga.edu/",
           logo_path: "ugalogo.png",
@@ -639,7 +639,7 @@ const experience = {
           duration: "Feb 2022 - May 2022",
           location: "Chennai, India",
           description:
-            "Collaborated with cross-functional teams to develop a custom 1D CNN and ResNet fusion based ML model capable of detecting up to 14 arrhythmias from ECG signals, achieving 92% accuracy. Engineered temporal and frequency-domain features, such as R-R intervals and spectral power, to enhance model inputs for improved performance in ECG classification tasks. Explored multivariate dependencies in ECG data by adapting cross-channel techniques from C-Mamba, enhancing the model’s ability to correlate cardiac events across multiple leads. Applied signal processing by cleaning, pruning, and annotating ECG with precise labels, boosting performance by 30%.",
+            "Developed and Deployed an Advanced ECG Signal Classification System with Custom 1D CNN-ResNet Fusion Model. Model Development & Innovation: Spearheaded the development of a custom 1D CNN-ResNet fusion-based machine learning model capable of detecting up to 14 distinct arrhythmias from ECG signals, achieving an impressive 92% classification accuracy. Feature Engineering & Signal Analysis: Engineered advanced temporal and frequency-domain features, including R-R intervals, heart rate variability (HRV), and spectral power metrics, to enhance model inputs, driving substantial performance gains in ECG classification tasks. Cross-Channel Dependency Analysis: Pioneered the adaptation of multivariate dependency analysis inspired by cross-channel techniques from C-Mamba, significantly boosting the model’s ability to correlate cardiac events across multiple ECG leads, thus improving interpretability and robustness. Human-in-the-Loop Learning: Implemented human-in-the-loop (HITL) learning techniques, incorporating dynamic callbacks for on-demand model retraining, leading to rapid feedback loops and ongoing model optimization. This approach led to more adaptive and context-aware model improvements. Signal Processing & Annotation: Applied rigorous signal processing techniques by cleaning, pruning, and annotating ECG signals with precise, domain-specific labels. This meticulous approach enhanced the signal-to-noise ratio, resulting in a 30% boost in model performance. Utilization of Industry-Standard Libraries: Explored and leveraged cutting-edge signal processing libraries, including HeartPy, NeuroKit2, BioSignalsNotebooks, MNE, Scipy, and other essential toolkits for robust ECG signal analysis and preprocessing. Custom Utility Development: Built custom utility functions for preprocessing, inspired by the core capabilities of established libraries. These utilities offered tailored solutions to address edge cases, reduce noise, and streamline signal transformations, ensuring clean, high-quality data inputs for the model. Collaborative & Cross-Functional Approach: Collaborated with cross-functional teams of data scientists, machine learning engineers, and healthcare professionals to align development efforts with clinical needs and regulatory standards, ensuring the model's readiness for real-world deployment.",
           color: "#000000",
         },
         {
@@ -671,8 +671,19 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
+          title: "NVIDIA Developer Program",
+          company: "NVIDIA",
+          company_url: "https://developer.nvidia.com/developer-program",
+          logo_path: "Nvidia_logo.png",
+          duration: "Dec 2024 - Present",
+          location: "",
+          description:
+            "The NVIDIA Developer Program is a platform designed to support developers, researchers, engineers, and data scientists who are building AI, machine learning, data science, computer vision, graphics, robotics, and other high-performance computing (HPC) applications",
+          color: "#4285F4",
+        },
+        {
           title: "Judge",
-          company: "Georgia State Science and Engineering Fair",
+          company: "75th and 76th Georgia State Science and Engineering Fair",
           company_url:
             "https://www.georgiacenter.uga.edu/youth/academic-special-programs/georgia-science-and-engineering-fair",
           logo_path: "gseflogo.png",
@@ -705,15 +716,14 @@ const experience = {
         //   color: "#000000",
         // },
         {
-          title: "Developer Students Club Member",
-          company: "GDSC VIT-AP University",
-          company_url:
-            "https://www.linkedin.com/company/gdgoncampusvitap/?originalSubdomain=in",
-          logo_path: "dsc_logo.png",
-          duration: "2023 and 2024",
-          location: "Amaravati, Andhra Pradesh",
+          title: "Vice President",
+          company: "Indian Student Association - University of Georgia",
+          company_url: "https://isa.uga.edu/",
+          logo_path: "uga_isa_logo.jpeg",
+          duration: "Aug 2023 - May 2024",
+          location: "Athens, Georgia, USA",
           description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Googel Clound, Flutter.",
+            "Indian Student Association (ISA) is a student organization under the International Student Life (ISL) supporting the Indian students at University of Georgia ,Athens, GA. ISA comprises of Indian students, faculty, and families residing in Athens.",
           color: "#0C9D58",
         },
         {
@@ -727,6 +737,18 @@ const experience = {
           description:
             "Served as a judge to evaluate the works presented by high shool students in the area of AI.",
           color: "#181717",
+        },
+        {
+          title: "Developer Students Club Member",
+          company: "GDSC VIT-AP University",
+          company_url:
+            "https://www.linkedin.com/company/gdgoncampusvitap/?originalSubdomain=in",
+          logo_path: "dsc_logo.png",
+          duration: "2023 and 2024",
+          location: "Amaravati, Andhra Pradesh",
+          description:
+            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Googel Clound, Flutter.",
+          color: "#0C9D58",
         },
       ],
     },

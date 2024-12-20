@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
+      "name": "Sensing and Evaluation of Bird Comfort using Machine Learning and IoT",
       "createdAt": "2023-04-13T04:18:19Z",
       "url": "https://github.com/ashutosh1919/mdp-diffusion",
       "description": "Text-guided image editing by manipulating diffusion path without any training.",
@@ -24,7 +24,7 @@
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
+      "name": "Pathogenic Bacteria Characterization through Portable Optical Scatter Device and Machine Learning",
       "createdAt": "2022-03-13T20:41:33Z",
       "url": "https://github.com/ashutosh1919/explainable-cnn",
       "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
@@ -38,7 +38,7 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
+      "name": "CyberProfiling System - Helps cyber victims to navigate through law using LLM's.",
       "createdAt": "2020-03-06T16:26:54Z",
       "url": "https://github.com/ashutosh1919/masterPortfolio",
       "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
@@ -64,7 +64,7 @@
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
+      "name": "Simulating Dynamic Instability in Micro Tubules using Multi Agent System and Behavioral Trees in Unity",
       "createdAt": "2022-02-11T14:50:20Z",
       "url": "https://github.com/ashutosh1919/react-awesome-shapes",
       "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
@@ -90,7 +90,7 @@
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
+      "name": "Robust Visual Question Answering System using Transformers",
       "createdAt": "2021-11-26T17:56:07Z",
       "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
       "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
@@ -104,7 +104,7 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
+      "name": "Show time Tickets",
       "createdAt": "2021-01-01T08:31:51Z",
       "url": "https://github.com/ashutosh1919/react-liquidswipe",
       "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
