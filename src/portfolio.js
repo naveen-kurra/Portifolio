@@ -803,7 +803,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "Naveen_Kurra.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
@@ -816,14 +816,14 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "300 Rogers rd, Athens, GA, USA 30605",
-    locality: "Athens",
+    subtitle: "10 Peachford Cir., Dunwoody, GA, USA 30338",
+    locality: "Dunwoody",
     country: "USA",
     region: "Georgia",
-    postalCode: "30605",
-    streetAddress: "300 Rogers Road",
+    postalCode: "3033",
+    streetAddress: "10 Peachford Cir.",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://g.co/kgs/wbMwgvd",
+    location_map_link: "https://g.co/kgs/4aVa2D2",
   },
   phoneSection: {
     title: "",
